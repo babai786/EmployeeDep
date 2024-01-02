@@ -1,0 +1,12 @@
+.idea/
+**/__pycache__/
+db.sqlite3
+**/migrations/
+**/migrations_prod/
+**/migrations_dev/
+**/migrations_test/
+uploads/
+staticfiles/
+structure.txt
+logs/
+venv/
